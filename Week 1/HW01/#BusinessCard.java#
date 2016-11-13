@@ -1,0 +1,14 @@
+/**
+ * Business Card
+ * 
+ * The program gets the name, the major, and the email of the user
+ * and then displays this information in a pop-up message of predefined format
+ *
+ * @author Brandon Nguyen, nguye299@purdue.edu, Lab Section  G06
+ *
+ * @version TBA
+ */
+public class BusinessCard {
+    public static void main (String[] args) {fdj
+    }
+}
